@@ -3,7 +3,8 @@
 **תאריך:** כ׳ חשוון תשפ״ו • 11/11/2025  
 **שעה:** 21:00  
 **קרדיט:** AnLoMinus • [https://github.com/AnLoMinus](https://github.com/AnLoMinus)  
-**מאגר GitHub:** [AnLoMinus/Discipline](https://github.com/AnLoMinus/Discipline)
+**מאגר GitHub:** [AnLoMinus/Discipline](https://github.com/AnLoMinus/Discipline)  
+**אתר חי:** [anlominus.github.io/Discipline](https://anlominus.github.io/Discipline/)
 
 ---
 

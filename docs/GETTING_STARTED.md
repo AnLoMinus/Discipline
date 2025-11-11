@@ -14,6 +14,7 @@ cd Discipline
 ## סביבה
 - צור קובץ `.env` מקומי אם נדרש.
 - הרץ את הסקריפטים מתוך `scripts/`.
+- בדוק את הממשק החי: [https://anlominus.github.io/Discipline/](https://anlominus.github.io/Discipline/).
 
 ## בדיקת התקנה
 - הרץ בדיקות: `make test` או `scripts/run-tests.sh`.

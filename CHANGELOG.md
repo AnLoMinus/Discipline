@@ -7,6 +7,7 @@
 - שלד מאגר התחלתי בהשראת RepoCraft: קבצי קהילה, אבטחה, תיעוד ו־CI בסיסי.
 - מבנה תיקיות `docs/`, `src/`, `tests/`, `scripts/`, `assets/`, `.github/`.
 - אתר סטטי בסיסי (`index.html`, `guide-discipline.html`, `styles.css`, `script.js`) להצגת הפרויקט והמדריכים.
+- פרסום אתר חי ב-GitHub Pages: [https://anlominus.github.io/Discipline/](https://anlominus.github.io/Discipline/).
 - מדריך אינטראקטיבי חדש: “מדריך דיסציפלינה – עשה ולא תעשה” ב־Markdown וב־HTML.
 
 ---

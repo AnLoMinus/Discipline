@@ -2,6 +2,7 @@
 
 ברוך הבא למרכז הידע של הפרויקט. כאן תמצא קישורים מהירים למסמכים העיקריים:
 
+- [אתר הפרויקט](https://anlominus.github.io/Discipline/)
 - [התחלה מהירה](GETTING_STARTED.md)
 - [מדריך אדריכלות](ARCHITECTURE.md)
 - [סגנון ותהליכי כתיבה](STYLE_GUIDE.md)
