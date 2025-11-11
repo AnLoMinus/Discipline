@@ -1,0 +1,36 @@
+# Build artifacts
+dist/
+build/
+out/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+*.log
+
+# macOS
+.DS_Store
+
+# Coverage
+coverage/
+
+# Env files
+.env
+.env.*
+
+# IDE metadata
+.idea/
+.vscode/
+.obsidian/
+
+# Archive backups
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+

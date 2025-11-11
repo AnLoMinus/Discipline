@@ -1,8 +1,25 @@
 # **דיסציפלינה — SoulDiscipline (SD)** ✨
 
-**תאריך:** כ׳ חשוון תשפ״ו • 11/11/2025
-**שעה:** 21:00
-**קרדיט:** AnLoMinus • [https://github.com/AnLoMinus](https://github.com/AnLoMinus)
+**תאריך:** כ׳ חשוון תשפ״ו • 11/11/2025  
+**שעה:** 21:00  
+**קרדיט:** AnLoMinus • [https://github.com/AnLoMinus](https://github.com/AnLoMinus)  
+**מאגר GitHub:** [AnLoMinus/Discipline](https://github.com/AnLoMinus/Discipline)
+
+---
+
+## 📂 מבנה המאגר ומה הלאה?
+
+- `src/` — קוד הליבה של Discipline.
+- `tests/` — בדיקות יחידה ואינטגרציה.
+- `docs/` — תיעוד מלא, כולל [התחלה מהירה](docs/GETTING_STARTED.md) ו[אדריכלות](docs/ARCHITECTURE.md), וכן מדריכים כגון [`מדריך דיסציפלינה – עשה ולא תעשה`](docs/מדריך%20דיסציפלינה%20–%20עשה%20ולא%20תעשה.md).
+- `scripts/` — כלים להפעלת בדיקות ולינט.
+- `.github/` — תבניות Issues/PR ו־CI.
+- `index.html`, `guide-discipline.html`, `styles.css`, `script.js` — אתר סטטי המציג את הפרויקט ואת המדריכים המרכזיים.
+
+### איך מתחילים?
+1. קרא את [המדריך לתורם](CONTRIBUTING.md).
+2. עקוב אחר [מדיניות האבטחה](SECURITY.md) ו[קוד ההתנהגות](CODE_OF_CONDUCT.md).
+3. פתח Issue או הצטרף לשיחה קיימת.
 
 ---
 
@@ -77,6 +94,14 @@
 **שם עברי:** דיסציפלינה – יסוד העקביות
 **שם אנגלי:** **SoulDiscipline**
 **קיצור מותג:** **SD**
+
+---
+
+## 🌐 אתר סטטי
+
+לצפייה במידע המרכזי דרך הדפדפן:
+- [דף הבית](index.html) — סקירה, משאבים וקישורים רשמיים.
+- [מדריך דיסציפלינה – עשה ולא תעשה](guide-discipline.html) — גרסה אינטראקטיבית למסמך ההכוונה היומי.
 
 ---
 
